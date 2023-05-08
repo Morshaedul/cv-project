@@ -1,0 +1,169 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #E2F7F4;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #a9f3e8;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.profile-image{
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 50%;  
+    float: left;
+    margin: 20px;
+   
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: #72C2CC;
+}
+.header_contact{
+    float: right;
+    padding: 30px;
+
+
+}
+.header_contact a{
+    text-decoration: none;
+    color: rgb(56, 134, 134);
+}
+.header_contact a:hover{
+    text-decoration: underline;
+    color: rebeccapurple;
+}
+.clear_div{
+    clear: both;
+}
+
+hr{
+    border: 3px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+/*header part ends here */
+
+/* personal section start here */
+.personal_section{
+
+}
+.personal_info{
+    float: left;
+    width: 30%;
+
+}
+.personal_data{
+    float: left;
+    width: 70%;
+}
+.common_hr{
+    border: 1px solid gray;
+}
+
+/* personal section start here */
+
+/* work_section start here */
+.work_section{
+
+}
+.work_left{
+    float: left;
+    width: 30%;
+}
+.work_right{
+    float: right;
+    width: 70%;
+}
+
+/* work_section ends here */
+
+
+
+/* Skill_section start here */
+.Skill_section{
+
+}
+.skill_left{
+    float: left;
+    width: 30%;
+}
+.skill_right{
+    float: right;
+    width: 70%;
+    margin-bottom: 20px;
+}
+
+/* Skill_section  ends here */
+
+
+
+/* Education_section start here */
+.Education_section{
+
+}
+.education_left{
+    float: left;
+    width: 30%;
+}
+.education_middle{
+    float: left;
+    width: 35%;
+}
+.education_right{
+    float: right;
+    width: 35%;
+}
+/* Education_section ends here */
+
+
+/* Education_section start here */
+.Education_section{
+
+}
+.honours_a_awards{
+    float: left;
+    width: 30%;
+}
+.honours_a_awards_right{
+    float: right;
+    width: 70%;
+}
+/* Education_section ends here */
+
+
+/* footer_part start here */
+
+.footer_content {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+   
+}
+
+
+.footer_content a{
+    margin: 20px;
+    color: white;
+}
+.footer_content h4{
+    margin-top: 20px;
+    color: rgb(156, 125, 125);
+}
+
+/* footer_part start here */
+
